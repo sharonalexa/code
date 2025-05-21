@@ -1,1 +1,1 @@
-# code
+This R code was written by Alexa McDorman for their dissertation (paper 2 of 3). The code pulls the public, U.S.-national ECLS-K:2011 dataset from online, cleans and checks relevant variables, and runs preliminary descriptive analyses using appropriate complex design (weighting). Also included is longitudinal imputation for key subsetting variables (socioeconomic indices) and school readiness variables that were used for profile analysis, which was conducted in Mplus, due to limited R capabilities for combining complex data and latent profile approaches.
